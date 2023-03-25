@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/IPFS-Supply-Chain-Assurance1/static/css/main.0f139376.css",
+    "main.js": "/IPFS-Supply-Chain-Assurance1/static/js/main.70b742b3.js",
+    "static/js/988.6abf37a8.chunk.js": "/IPFS-Supply-Chain-Assurance1/static/js/988.6abf37a8.chunk.js",
+    "static/media/turtle.jpg": "/IPFS-Supply-Chain-Assurance1/static/media/turtle.eab728cd36e821adef3f.jpg",
+    "index.html": "/IPFS-Supply-Chain-Assurance1/index.html",
+    "main.0f139376.css.map": "/IPFS-Supply-Chain-Assurance1/static/css/main.0f139376.css.map",
+    "main.70b742b3.js.map": "/IPFS-Supply-Chain-Assurance1/static/js/main.70b742b3.js.map",
+    "988.6abf37a8.chunk.js.map": "/IPFS-Supply-Chain-Assurance1/static/js/988.6abf37a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f139376.css",
+    "static/js/main.70b742b3.js"
+  ]
+}
