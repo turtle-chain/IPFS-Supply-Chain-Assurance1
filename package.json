@@ -1,0 +1,77 @@
+{
+  "name": "ask-react",
+  "homepage": "https://turtle.github.io/IPFS-Supply-Chain-Assurance1/",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.3",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "bignumber": "^1.1.0",
+    "content-hash": "^2.5.2",
+    "crypto-hash": "^2.0.1",
+    "ethers": "^5.7.1",
+    "gh-pages": "^5.0.0",
+    "ipfs-http-client": "^58.0.1",
+    "postcss-loader": "^7.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-qr-code": "^2.0.11",
+    "react-qr-scanner": "^1.0.0-alpha.11",
+    "react-scripts": "5.0.1",
+    "source-map-loader": "^4.0.0",
+    "tailwind-merge": "^1.8.0",
+    "tailwind-override": "^0.6.1",
+    "tailwindcss": "^3.2.4",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.0",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.0.0",
+    "@nomiclabs/hardhat-etherscan": "^3.0.0",
+    "@typechain/ethers-v5": "^10.1.0",
+    "@typechain/hardhat": "^6.1.2",
+    "@types/chai": "^4.2.0",
+    "@types/mocha": "^9.1.0",
+    "autoprefixer": "^9.8.8",
+    "chai": "^4.2.0",
+    "hardhat": "^2.12.3",
+    "hardhat-gas-reporter": "^1.0.8",
+    "netlify-cli": "^12.2.10",
+    "postcss": "^8.4.20",
+    "solidity-coverage": "^0.7.21",
+    "ts-node": "^10.9.1",
+    "typechain": "^8.1.0",
+    "typescript": "^4.8.3",
+    "webpack": "^5.74.0"
+  }
+}
